@@ -5,8 +5,8 @@ Kelas Data Analyst Career Track (Python) dirancang oleh 7 ahli data, dari beraga
 
 
 Daftar isi :
-1.Memahami Bahasa Pemrograman Fundamental
-2.Memahami Bahasa SQL dan Sistem Database Relasional agar dapat mengolah data di Perusahaan Yang Sudah Menerapkan Sistem IT
+1. Memahami Bahasa Pemrograman Fundamental\n
+2. Memahami Bahasa SQL dan Sistem Database Relasional agar dapat mengolah data di Perusahaan Yang Sudah Menerapkan Sistem IT
 3.Memahami Konsep dan Penerapan Exploratory Data Analysis dalam Studi Kasus Bisnis
 4.Mengolah Dataset Dalam Jumlah Kecil sampai dengan Besar
 5.Memahami Konsep dan Menghasilkan Tipe Visualisasi Data yang Tepat untuk Mempresentasikan Suatu Kasus Bisnis
