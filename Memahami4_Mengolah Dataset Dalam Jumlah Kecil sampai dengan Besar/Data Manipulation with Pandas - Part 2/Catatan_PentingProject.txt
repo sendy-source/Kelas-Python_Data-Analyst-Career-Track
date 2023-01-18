@@ -1,0 +1,23 @@
+
+Ada juga sejumlah catatan yang perlu aku ingat, yaitu :
+
+1. Jikalau terdapat berbagai multiple source untuk extract 1 informasi, 
+maka pastikan struktur datanya adalah sama, list column dan data types.
+
+2. Mengerti business understanding-nya sehingga jika diperlukan melakukan join 
+maka bisa melakukan join dengan efektif dan tepat.
+
+3. Mengerti tujuan analisisnya sehingga bisa melakukan aggregation dan 
+transform data (pivot, melt, etc) data dengan tepat dan efektif.
+
+4. Sebisa mungkin selalu set index pada kolom datetime sehingga slicing 
+menjadi lebih mudah dan melakukan hal lain seperti downsampling ataupun upsampling.
+
+5. Selalu gunakan "Automation" jika memungkinkan karena 
+itu akan mempermudah hidupmu dan menghemat waktu.
+
+Pesan dari data mentor Karl Christian:
+“Data Manipulation is redundant tasks if you have to specify all the parameters one by one, 
+the key is trying to figure out the first phase, then 
+replicate that command become a function that you can call to create a scalable output. 
+This process can be called as Automation.”  By KARL CHRISTIAN, 2020

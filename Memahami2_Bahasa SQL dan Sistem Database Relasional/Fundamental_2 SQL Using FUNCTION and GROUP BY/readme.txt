@@ -1,0 +1,1 @@
+Menggunakan Format Word agar lebih jelas contoh prakteknya.
