@@ -15,3 +15,5 @@ Daftar isi :
 6. Memahami Konsep Predictive Modeling & Mampu Menguji Tingkat Akurasi untuk Memilih Model yang Tepat
 7. Melakukan Investigasi dan Mendeteksi Anomali pada Data
 8. Data Analyst Project: Business Decision Research
+
+Sumber : DQLab Academy
